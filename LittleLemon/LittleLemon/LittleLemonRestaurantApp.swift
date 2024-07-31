@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct LittleLemonApp: App {
+struct LittleLemonRestaurantApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnboardingView()
         }
     }
 }
