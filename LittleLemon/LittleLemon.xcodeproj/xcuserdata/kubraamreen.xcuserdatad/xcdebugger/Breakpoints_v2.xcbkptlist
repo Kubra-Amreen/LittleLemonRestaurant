@@ -84,5 +84,197 @@
             landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14757A67-19D1-4A02-BB5A-5D20B6EBACB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LittleLemon/MenuView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "14757A67-19D1-4A02-BB5A-5D20B6EBACB9 - b4bfdc89b078b7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LittleLemon.MenuView.body.getter : some"
+                  moduleName = "LittleLemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kubraamreen/Desktop/iOSCapstoneProject/LittleLemonRestaurant/LittleLemon/LittleLemon/MenuView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "14757A67-19D1-4A02-BB5A-5D20B6EBACB9 - 86e07006ea4bcf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in LittleLemon.MenuView.body.getter : some"
+                  moduleName = "LittleLemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kubraamreen/Desktop/iOSCapstoneProject/LittleLemonRestaurant/LittleLemon/LittleLemon/MenuView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59D029F5-C71D-47ED-8251-A829832D4A32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LittleLemon/MenuList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getMenuData(viewContext:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "59D029F5-C71D-47ED-8251-A829832D4A32 - 8380cbca7fcd8737"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LittleLemon.MenuList.getMenuData(viewContext: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "LittleLemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kubraamreen/Desktop/iOSCapstoneProject/LittleLemonRestaurant/LittleLemon/LittleLemon/MenuList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "59D029F5-C71D-47ED-8251-A829832D4A32 - 8380cbca7fcd8737"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LittleLemon.MenuList.getMenuData(viewContext: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "LittleLemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kubraamreen/Desktop/iOSCapstoneProject/LittleLemonRestaurant/LittleLemon/LittleLemon/MenuList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC5BA993-5B5B-4A24-9428-21D5A65A5D3C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LittleLemon/MenuList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getMenuData(viewContext:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1BDB5A6-429C-4862-BD16-AAE51645ED87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LittleLemon/MenuList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getMenuData(viewContext:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DAA84D1-13A1-48A6-8EAA-D20DD4BCC819"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LittleLemon/MenuList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getMenuData(viewContext:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6DAA84D1-13A1-48A6-8EAA-D20DD4BCC819 - e2732be30566f795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static LittleLemon.MenuList.getMenuData(viewContext: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "LittleLemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kubraamreen/Desktop/iOSCapstoneProject/LittleLemonRestaurant/LittleLemon/LittleLemon/MenuList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "2076">
+               </Location>
+               <Location
+                  uuid = "6DAA84D1-13A1-48A6-8EAA-D20DD4BCC819 - e2732be30566f7f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static LittleLemon.MenuList.getMenuData(viewContext: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "LittleLemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kubraamreen/Desktop/iOSCapstoneProject/LittleLemonRestaurant/LittleLemon/LittleLemon/MenuList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "2076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F529871D-30B7-47B6-A59C-7909ACF15B73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LittleLemon/MenuList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getMenuData(viewContext:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
